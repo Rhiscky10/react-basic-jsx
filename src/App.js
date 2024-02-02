@@ -39,7 +39,7 @@ function App() {
         <img
           src="https://i.ytimg.com/vi/KgO-kWzyMw4/maxresdefault.jpg"
           alt="image 2"
-          style={{ width: "800px", height: "300px" }}
+          style={{ width: "900px", height: "400px" }}
         />
       </div>
     </div>
